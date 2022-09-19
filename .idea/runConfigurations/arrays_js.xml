@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="arrays.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v18.9.0/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-o-que-sao-arrays/01-arrays/arrays.js" working-dir="$PROJECT_DIR$/01-o-que-sao-arrays">
+    <method v="2" />
+  </configuration>
+</component>
