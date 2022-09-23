@@ -10,3 +10,21 @@ const notasAtualizadas = notas.map((nota) => {
     }
 })
 console.log(notasAtualizadas);
+
+
+
+const notas2 = notas.map((nota) =>{
+    if (nota === 10){
+        return nota + 10
+    }else{
+        return nota+ 5
+    }
+})
+
+console.log(notas2);
+
+const frutas = ['limão', 'abacaxi', 'pera']
+
+const cardápio = frutas.map((fruta) => {return fruta + ' delicioso' })
+
+console.log(cardápio);
